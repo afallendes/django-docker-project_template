@@ -1,0 +1,4 @@
+services:
+  django:
+    container_name: project_django_D
+    command: poetry install

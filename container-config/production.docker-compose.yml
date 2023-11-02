@@ -1,0 +1,6 @@
+services:
+  django:
+    container_name: project_django_T
+    command: poetry install --without dev
+  postgres:
+    container_name: project_postgres_T
