@@ -1,9 +1,9 @@
-# Django/Docker Sekeleton Project
+# Django/Docker Project Template
 
 ## Requirements
 
-- python v3.11
-- poetry
+- python v3.10
+- poetry v?
 
 # Container configuration
 
